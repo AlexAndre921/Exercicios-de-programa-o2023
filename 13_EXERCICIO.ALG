@@ -1,0 +1,21 @@
+Algoritmo "13_Exercicio"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 02/03/2023
+Var
+// Seção de Declarações das variáveis 
+a,s,n:real
+
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva("digite seu numero:")
+leia (n)
+a <- n -1
+s <- n +1
+escreva("Atecessor:",a, " Sucessor:",s)
+
+Fimalgoritmo
