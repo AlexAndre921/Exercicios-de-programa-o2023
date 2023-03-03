@@ -1,0 +1,20 @@
+Algoritmo "8_exercio"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 03/03/2023
+Var
+// Seção de Declarações das variáveis 
+a,b:real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva("digite o preço em dolar:")
+leia (a)
+b <- a / 5
+escreva("São",b," reais")
+
+
+
+Fimalgoritmo
